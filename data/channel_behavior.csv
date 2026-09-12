@@ -1,0 +1,6 @@
+Marketing_Channel,Avg_Session_Duration_Sec,Bounce_Rate_Pct,Primary_Traffic_Intent,Audience_Age_Match_Pct,Ad_Format,Landing_Page_Match_Score
+Google Ads,185,22.5,High Intent (Search),88,Search Text Ad,9.2
+Email,210,15.0,High Intent (Subscriber),92,Direct Link,9.5
+Instagram Ads,95,38.0,Medium Intent (Browse),74,Image/Carousel,7.4
+Facebook Ads,88,41.5,Medium Intent (Browse),70,Image/Video,7.1
+TikTok Ads,22,76.5,Low Intent (Entertainment),41,Short Video,3.8

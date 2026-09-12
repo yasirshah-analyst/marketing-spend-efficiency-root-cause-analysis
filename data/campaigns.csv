@@ -1,0 +1,921 @@
+Date,Marketing_Channel,Campaign,Ad_Spend,Impressions,Clicks,Website_Visitors,New_Customers,Revenue,Conversion_Status
+3/1/2026,Google Ads,Running Shoes,210.5,22500,1125,1012,15,1875,Converted
+3/1/2026,Facebook Ads,Summer Sale,145,15000,450,380,3,315,Converted
+3/1/2026,TikTok Ads,Premium Collection,380,45000,2250,1800,0,0,Not Converted
+3/1/2026,Instagram Ads,New Arrivals,95,9800,392,345,5,575,Converted
+3/1/2026,Email,Casual Shoes,25,2100,168,155,8,920,Converted
+3/2/2026,Google Ads,Summer Sale,310,32000,1280,1150,14,1680,Converted
+3/2/2026,TikTok Ads,New Arrivals,420,48000,2160,1620,1,110,Converted
+3/2/2026,Instagram Ads,Premium Collection,210,20000,700,610,6,750,Converted
+3/2/2026,Facebook Ads,Running Shoes,180,19000,532,450,2,210,Converted
+3/2/2026,Email,Summer Sale,35,3000,250,230,12,1380,Converted
+3/3/2026,Google Ads,Premium Collection,280,27000,1215,1080,13,1625,Converted
+3/3/2026,TikTok Ads,Summer Sale,490,50000,2750,2100,2,220,Converted
+3/3/2026,Facebook Ads,Premium Collection,290,28000,784,680,2,240,Converted
+3/3/2026,Instagram Ads,Casual Shoes,110,11500,480,420,7,770,Converted
+3/3/2026,Email,New Arrivals,40,3200,270,245,11,1265,Converted
+3/4/2026,Google Ads,Casual Shoes,190,19500,975,870,12,1380,Converted
+3/4/2026,TikTok Ads,Running Shoes,350,39000,1800,1350,0,0,Not Converted
+3/4/2026,Facebook Ads,Casual Shoes,130,14000,392,330,1,105,Converted
+3/4/2026,Instagram Ads,Running Shoes,175,18000,684,590,8,960,Converted
+3/4/2026,Email,Premium Collection,50,4100,340,310,14,1750,Converted
+3/5/2026,Google Ads,New Arrivals,230,24000,1104,980,12,1320,Converted
+3/5/2026,TikTok Ads,Casual Shoes,310,34000,1530,1180,1,95,Converted
+3/5/2026,Facebook Ads,New Arrivals,160,17000,459,390,2,190,Converted
+3/5/2026,Instagram Ads,Summer Sale,205,21000,880,770,9,1035,Converted
+3/5/2026,Email,Running Shoes,30,2500,205,185,9,1035,Converted
+3/6/2026,Google Ads,Running Shoes,240,25000,1250,1120,16,1920,Converted
+3/6/2026,TikTok Ads,Premium Collection,460,49000,2300,1750,1,130,Converted
+3/6/2026,Facebook Ads,Summer Sale,210,22000,616,520,3,285,Converted
+3/6/2026,Instagram Ads,New Arrivals,120,12500,520,455,6,690,Converted
+3/6/2026,Email,Casual Shoes,20,1800,150,138,7,770,Converted
+3/7/2026,Google Ads,Summer Sale,330,34000,1360,1210,15,1800,Converted
+3/7/2026,TikTok Ads,New Arrivals,390,43000,1935,1480,0,0,Not Converted
+3/7/2026,Facebook Ads,Running Shoes,195,20000,540,460,2,220,Converted
+3/7/2026,Instagram Ads,Premium Collection,240,23500,810,710,7,910,Converted
+3/7/2026,Email,Summer Sale,45,3800,315,290,15,1725,Converted
+3/8/2026,Google Ads,Premium Collection,295,29000,1305,1160,14,1750,Converted
+3/8/2026,TikTok Ads,Summer Sale,410,44000,2200,1650,1,105,Converted
+3/8/2026,Facebook Ads,Premium Collection,310,30000,810,700,3,330,Converted
+3/8/2026,Instagram Ads,Casual Shoes,130,13500,550,480,8,880,Converted
+3/8/2026,Email,New Arrivals,35,2900,240,220,10,1150,Converted
+3/9/2026,Google Ads,Casual Shoes,205,21000,1050,935,13,1495,Converted
+3/9/2026,TikTok Ads,Running Shoes,370,41000,1886,1400,1,85,Converted
+3/9/2026,Facebook Ads,Casual Shoes,140,15000,405,340,1,110,Converted
+3/9/2026,Instagram Ads,Running Shoes,185,19000,720,620,9,1080,Converted
+3/9/2026,Email,Premium Collection,45,3700,300,275,13,1625,Converted
+3/10/2026,Google Ads,New Arrivals,220,23000,1058,940,11,1210,Converted
+3/10/2026,TikTok Ads,Casual Shoes,330,36000,1620,1230,0,0,Not Converted
+3/10/2026,Facebook Ads,New Arrivals,175,18000,468,400,2,210,Converted
+3/10/2026,Instagram Ads,Summer Sale,215,22000,920,800,10,1150,Converted
+3/10/2026,Email,Running Shoes,25,2200,180,165,8,920,Converted
+3/11/2026,Google Ads,Running Shoes,225,23500,1175,1040,15,1800,Converted
+3/11/2026,Facebook Ads,Summer Sale,155,16000,464,390,2,220,Converted
+3/11/2026,TikTok Ads,Premium Collection,400,46000,2250,1700,1,120,Converted
+3/11/2026,Instagram Ads,New Arrivals,105,11000,440,385,6,660,Converted
+3/11/2026,Email,Casual Shoes,30,2400,195,178,9,1035,Converted
+3/12/2026,Google Ads,Summer Sale,325,33500,1340,1190,14,1680,Converted
+3/12/2026,TikTok Ads,New Arrivals,440,49000,2205,1660,1,95,Converted
+3/12/2026,Instagram Ads,Premium Collection,225,22000,770,670,7,910,Converted
+3/12/2026,Facebook Ads,Running Shoes,190,19500,526,445,2,230,Converted
+3/12/2026,Email,Summer Sale,40,3400,280,255,13,1495,Converted
+3/13/2026,Google Ads,Premium Collection,285,28000,1260,1120,13,1625,Converted
+3/13/2026,TikTok Ads,Summer Sale,475,49500,2722,2050,0,0,Not Converted
+3/13/2026,Facebook Ads,Premium Collection,300,29000,783,670,3,345,Converted
+3/13/2026,Instagram Ads,Casual Shoes,120,12500,512,445,7,770,Converted
+3/13/2026,Email,New Arrivals,30,2600,215,195,9,1035,Converted
+3/14/2026,Google Ads,Casual Shoes,195,20000,1000,890,11,1265,Converted
+3/14/2026,TikTok Ads,Running Shoes,360,40000,1840,1370,1,115,Converted
+3/14/2026,Facebook Ads,Casual Shoes,135,14500,391,335,1,115,Converted
+3/14/2026,Instagram Ads,Running Shoes,180,18500,703,605,8,960,Converted
+3/14/2026,Email,Premium Collection,55,4400,360,330,16,2000,Converted
+3/15/2026,Google Ads,New Arrivals,235,24500,1127,1005,13,1430,Converted
+3/15/2026,TikTok Ads,Casual Shoes,320,35000,1575,1190,1,80,Converted
+3/15/2026,Facebook Ads,New Arrivals,165,17500,455,390,2,200,Converted
+3/15/2026,Instagram Ads,Summer Sale,210,21500,903,785,9,1035,Converted
+3/15/2026,Email,Running Shoes,28,2300,190,172,8,920,Converted
+3/16/2026,Google Ads,Running Shoes,215,22800,1140,1015,14,1680,Converted
+3/16/2026,TikTok Ads,Premium Collection,440,48000,2256,1700,0,0,Not Converted
+3/16/2026,Facebook Ads,Summer Sale,200,21000,588,500,3,285,Converted
+3/16/2026,Instagram Ads,New Arrivals,115,12000,492,430,6,690,Converted
+3/16/2026,Email,Casual Shoes,22,1900,158,145,7,770,Converted
+3/17/2026,Google Ads,Summer Sale,340,35000,1400,1245,16,1920,Converted
+3/17/2026,TikTok Ads,New Arrivals,400,44000,1980,1500,1,110,Converted
+3/17/2026,Facebook Ads,Running Shoes,185,19000,513,435,2,210,Converted
+3/17/2026,Instagram Ads,Premium Collection,230,22500,787,690,7,910,Converted
+3/17/2026,Email,Summer Sale,42,3600,298,272,14,1610,Converted
+3/18/2026,Google Ads,Premium Collection,290,28500,1282,1140,13,1625,Converted
+3/18/2026,TikTok Ads,Summer Sale,425,45500,2275,1710,1,120,Converted
+3/18/2026,Facebook Ads,Premium Collection,320,31000,837,720,3,345,Converted
+3/18/2026,Instagram Ads,Casual Shoes,125,13000,533,465,8,880,Converted
+3/18/2026,Email,New Arrivals,38,3100,256,235,11,1265,Converted
+3/19/2026,Google Ads,Casual Shoes,200,20500,1025,910,12,1380,Converted
+3/19/2026,TikTok Ads,Running Shoes,380,42000,1932,1440,0,0,Not Converted
+3/19/2026,Facebook Ads,Casual Shoes,145,15500,418,355,1,105,Converted
+3/19/2026,Instagram Ads,Running Shoes,190,19500,741,640,9,1080,Converted
+3/19/2026,Email,Premium Collection,48,3900,320,292,14,1750,Converted
+3/20/2026,Google Ads,New Arrivals,225,23500,1081,960,12,1320,Converted
+3/20/2026,TikTok Ads,Casual Shoes,340,37000,1665,1260,1,100,Converted
+3/20/2026,Facebook Ads,New Arrivals,170,17500,455,388,2,190,Converted
+3/20/2026,Instagram Ads,Summer Sale,220,22500,945,820,10,1150,Converted
+3/20/2026,Email,Running Shoes,27,2250,184,168,8,920,Converted
+3/21/2026,Google Ads,Running Shoes,235,24200,1210,1080,15,1800,Converted
+3/21/2026,Facebook Ads,Summer Sale,165,17000,493,415,2,210,Converted
+3/21/2026,TikTok Ads,Premium Collection,415,47000,2303,1740,1,105,Converted
+3/21/2026,Instagram Ads,New Arrivals,110,11500,460,400,6,660,Converted
+3/21/2026,Email,Casual Shoes,28,2300,188,170,8,920,Converted
+3/22/2026,Google Ads,Summer Sale,315,32500,1300,1155,14,1680,Converted
+3/22/2026,TikTok Ads,New Arrivals,450,50000,2250,1700,0,0,Not Converted
+3/22/2026,Instagram Ads,Premium Collection,215,21000,735,640,7,910,Converted
+3/22/2026,Facebook Ads,Running Shoes,185,19000,513,430,2,220,Converted
+3/22/2026,Email,Summer Sale,38,3200,262,240,12,1380,Converted
+3/23/2026,Google Ads,Premium Collection,275,27000,1215,1080,12,1500,Converted
+3/23/2026,TikTok Ads,Summer Sale,460,48000,2640,1980,1,110,Converted
+3/23/2026,Facebook Ads,Premium Collection,305,29500,796,685,3,330,Converted
+3/23/2026,Instagram Ads,Casual Shoes,115,12000,492,428,7,770,Converted
+3/23/2026,Email,New Arrivals,32,2700,224,202,9,1035,Converted
+3/24/2026,Google Ads,Casual Shoes,185,19000,950,845,11,1265,Converted
+3/24/2026,TikTok Ads,Running Shoes,345,38000,1748,1310,1,85,Converted
+3/24/2026,Facebook Ads,Casual Shoes,125,13500,364,310,1,105,Converted
+3/24/2026,Instagram Ads,Running Shoes,170,17500,665,572,8,960,Converted
+3/24/2026,Email,Premium Collection,52,4200,344,315,15,1875,Converted
+3/25/2026,Google Ads,New Arrivals,240,25000,1150,1025,13,1430,Converted
+3/25/2026,TikTok Ads,Casual Shoes,335,36500,1642,1240,0,0,Not Converted
+3/25/2026,Facebook Ads,New Arrivals,180,18500,481,410,2,210,Converted
+3/25/2026,Instagram Ads,Summer Sale,225,23000,966,840,10,1150,Converted
+3/25/2026,Email,Running Shoes,32,2600,213,194,9,1035,Converted
+3/26/2026,Google Ads,Running Shoes,220,23000,1150,1020,14,1680,Converted
+3/26/2026,TikTok Ads,Premium Collection,430,47000,2209,1660,1,125,Converted
+3/26/2026,Facebook Ads,Summer Sale,190,20000,560,475,2,220,Converted
+3/26/2026,Instagram Ads,New Arrivals,125,13000,533,465,7,805,Converted
+3/26/2026,Email,Casual Shoes,25,2100,172,156,8,880,Converted
+3/27/2026,Google Ads,Summer Sale,335,34500,1380,1225,15,1800,Converted
+3/27/2026,TikTok Ads,New Arrivals,415,45000,2025,1530,1,90,Converted
+3/27/2026,Facebook Ads,Running Shoes,175,18000,486,412,2,200,Converted
+3/27/2026,Instagram Ads,Premium Collection,235,23000,805,705,7,910,Converted
+3/27/2026,Email,Summer Sale,44,3700,305,280,14,1610,Converted
+3/28/2026,Google Ads,Premium Collection,300,29500,1327,1180,14,1750,Converted
+3/28/2026,TikTok Ads,Summer Sale,435,46500,2325,1750,0,0,Not Converted
+3/28/2026,Facebook Ads,Premium Collection,330,32000,864,740,3,345,Converted
+3/28/2026,Instagram Ads,Casual Shoes,135,14000,574,500,8,880,Converted
+3/28/2026,Email,New Arrivals,42,3400,280,258,12,1380,Converted
+3/29/2026,Google Ads,Casual Shoes,210,21500,1075,955,13,1495,Converted
+3/29/2026,TikTok Ads,Running Shoes,390,43000,1978,1480,1,100,Converted
+3/29/2026,Facebook Ads,Casual Shoes,150,16000,432,368,1,110,Converted
+3/29/2026,Instagram Ads,Running Shoes,195,20000,760,655,9,1080,Converted
+3/29/2026,Email,Premium Collection,46,3800,312,285,13,1625,Converted
+3/30/2026,Google Ads,New Arrivals,215,22500,1035,920,11,1210,Converted
+3/30/2026,TikTok Ads,Casual Shoes,350,38000,1710,1290,1,90,Converted
+3/30/2026,Facebook Ads,New Arrivals,165,17000,442,375,2,190,Converted
+3/30/2026,Instagram Ads,Summer Sale,205,21000,882,765,9,1035,Converted
+3/30/2026,Email,Running Shoes,29,2400,197,180,8,920,Converted
+3/31/2026,Google Ads,Running Shoes,230,23800,1190,1060,15,1800,Converted
+3/31/2026,Facebook Ads,Summer Sale,170,17500,507,428,2,220,Converted
+3/31/2026,TikTok Ads,Premium Collection,425,47500,2327,1750,0,0,Not Converted
+3/31/2026,Instagram Ads,New Arrivals,118,12200,488,425,6,660,Converted
+3/31/2026,Email,Casual Shoes,26,2200,180,162,8,920,Converted
+4/1/2026,Google Ads,Running Shoes,215,23000,1150,1020,14,1680,Converted
+4/1/2026,Facebook Ads,Summer Sale,150,15500,450,380,2,210,Converted
+4/1/2026,TikTok Ads,Premium Collection,390,45500,2229,1680,1,110,Converted
+4/1/2026,Instagram Ads,New Arrivals,100,10500,420,365,5,550,Converted
+4/1/2026,Email,Casual Shoes,28,2300,188,170,8,920,Converted
+4/2/2026,Google Ads,Summer Sale,320,33000,1320,1170,14,1680,Converted
+4/2/2026,TikTok Ads,New Arrivals,430,48000,2160,1620,0,0,Not Converted
+4/2/2026,Instagram Ads,Premium Collection,220,21500,752,655,7,910,Converted
+4/2/2026,Facebook Ads,Running Shoes,185,19000,513,432,2,220,Converted
+4/2/2026,Email,Summer Sale,38,3300,270,248,13,1495,Converted
+4/3/2026,Google Ads,Premium Collection,290,28500,1282,1140,13,1625,Converted
+4/3/2026,TikTok Ads,Summer Sale,480,50000,2750,2080,1,120,Converted
+4/3/2026,Facebook Ads,Premium Collection,310,30000,810,690,3,345,Converted
+4/3/2026,Instagram Ads,Casual Shoes,125,12800,524,455,7,770,Converted
+4/3/2026,Email,New Arrivals,32,2700,224,202,9,1035,Converted
+4/4/2026,Google Ads,Casual Shoes,195,20000,1000,890,12,1380,Converted
+4/4/2026,TikTok Ads,Running Shoes,365,40500,1863,1390,1,85,Converted
+4/4/2026,Facebook Ads,Casual Shoes,130,14000,378,322,1,105,Converted
+4/4/2026,Instagram Ads,Running Shoes,180,18500,703,605,8,960,Converted
+4/4/2026,Email,Premium Collection,52,4200,344,315,15,1875,Converted
+4/5/2026,Google Ads,New Arrivals,230,24000,1104,980,12,1320,Converted
+4/5/2026,TikTok Ads,Casual Shoes,325,35500,1597,1210,0,0,Not Converted
+4/5/2026,Facebook Ads,New Arrivals,170,17500,455,388,2,200,Converted
+4/5/2026,Instagram Ads,Summer Sale,215,22000,924,800,9,1035,Converted
+4/5/2026,Email,Running Shoes,30,2500,205,186,9,1035,Converted
+4/6/2026,Google Ads,Running Shoes,240,25000,1250,1120,16,1920,Converted
+4/6/2026,TikTok Ads,Premium Collection,450,48500,2280,1710,1,115,Converted
+4/6/2026,Facebook Ads,Summer Sale,205,21500,602,510,3,285,Converted
+4/6/2026,Instagram Ads,New Arrivals,120,12500,520,455,6,690,Converted
+4/6/2026,Email,Casual Shoes,22,1900,158,144,7,770,Converted
+4/7/2026,Google Ads,Summer Sale,330,34000,1360,1210,15,1800,Converted
+4/7/2026,TikTok Ads,New Arrivals,395,43500,1957,1490,1,95,Converted
+4/7/2026,Facebook Ads,Running Shoes,190,19500,526,445,2,210,Converted
+4/7/2026,Instagram Ads,Premium Collection,235,23000,805,705,7,910,Converted
+4/7/2026,Email,Summer Sale,44,3700,305,280,14,1610,Converted
+4/8/2026,Google Ads,Premium Collection,300,29500,1327,1180,14,1750,Converted
+4/8/2026,TikTok Ads,Summer Sale,420,45000,2250,1690,0,0,Not Converted
+4/8/2026,Facebook Ads,Premium Collection,315,30500,823,705,3,330,Converted
+4/8/2026,Instagram Ads,Casual Shoes,130,13500,553,482,8,880,Converted
+4/8/2026,Email,New Arrivals,36,3000,248,228,10,1150,Converted
+4/9/2026,Google Ads,Casual Shoes,205,21000,1050,935,13,1495,Converted
+4/9/2026,TikTok Ads,Running Shoes,375,41500,1909,1420,1,105,Converted
+4/9/2026,Facebook Ads,Casual Shoes,140,15000,405,340,1,110,Converted
+4/9/2026,Instagram Ads,Running Shoes,185,19000,722,620,9,1080,Converted
+4/9/2026,Email,Premium Collection,46,3800,312,286,13,1625,Converted
+4/10/2026,Google Ads,New Arrivals,220,23000,1058,940,11,1210,Converted
+4/10/2026,TikTok Ads,Casual Shoes,335,36500,1642,1240,1,90,Converted
+4/10/2026,Facebook Ads,New Arrivals,175,18000,468,400,2,210,Converted
+4/10/2026,Instagram Ads,Summer Sale,210,21500,903,785,9,1035,Converted
+4/10/2026,Email,Running Shoes,26,2200,180,164,8,920,Converted
+4/11/2026,Google Ads,Running Shoes,230,23800,1190,1060,15,1800,Converted
+4/11/2026,Facebook Ads,Summer Sale,160,16500,478,400,2,210,Converted
+4/11/2026,TikTok Ads,Premium Collection,410,46500,2278,1720,0,0,Not Converted
+4/11/2026,Instagram Ads,New Arrivals,110,11500,460,400,6,660,Converted
+4/11/2026,Email,Casual Shoes,27,2250,184,166,8,920,Converted
+4/12/2026,Google Ads,Summer Sale,320,33000,1320,1170,14,1680,Converted
+4/12/2026,TikTok Ads,New Arrivals,445,49500,2227,1680,1,110,Converted
+4/12/2026,Instagram Ads,Premium Collection,220,21500,752,655,7,910,Converted
+4/12/2026,Facebook Ads,Running Shoes,185,19000,513,430,2,220,Converted
+4/12/2026,Email,Summer Sale,39,3300,270,248,13,1495,Converted
+4/13/2026,Google Ads,Premium Collection,280,27500,1237,1095,12,1500,Converted
+4/13/2026,TikTok Ads,Summer Sale,470,49000,2695,2020,1,95,Converted
+4/13/2026,Facebook Ads,Premium Collection,300,29000,783,670,3,345,Converted
+4/13/2026,Instagram Ads,Casual Shoes,120,12500,512,445,7,770,Converted
+4/13/2026,Email,New Arrivals,31,2600,215,195,9,1035,Converted
+4/14/2026,Google Ads,Casual Shoes,190,19500,975,865,11,1265,Converted
+4/14/2026,TikTok Ads,Running Shoes,355,39500,1817,1350,0,0,Not Converted
+4/14/2026,Facebook Ads,Casual Shoes,130,14000,378,322,1,105,Converted
+4/14/2026,Instagram Ads,Running Shoes,175,18000,684,588,8,960,Converted
+4/14/2026,Email,Premium Collection,50,4100,336,308,14,1750,Converted
+4/15/2026,Google Ads,New Arrivals,235,24500,1127,1005,13,1430,Converted
+4/15/2026,TikTok Ads,Casual Shoes,330,36000,1620,1220,1,100,Converted
+4/15/2026,Facebook Ads,New Arrivals,180,18500,481,410,2,210,Converted
+4/15/2026,Instagram Ads,Summer Sale,220,22500,945,820,10,1150,Converted
+4/15/2026,Email,Running Shoes,31,2500,205,188,9,1035,Converted
+4/16/2026,Google Ads,Running Shoes,225,23500,1175,1040,14,1680,Converted
+4/16/2026,TikTok Ads,Premium Collection,435,47500,2232,1680,1,90,Converted
+4/16/2026,Facebook Ads,Summer Sale,195,20500,574,485,2,220,Converted
+4/16/2026,Instagram Ads,New Arrivals,122,12800,524,458,7,805,Converted
+4/16/2026,Email,Casual Shoes,24,2000,164,148,7,770,Converted
+4/17/2026,Google Ads,Summer Sale,330,34000,1360,1210,15,1800,Converted
+4/17/2026,TikTok Ads,New Arrivals,410,44500,2002,1510,0,0,Not Converted
+4/17/2026,Facebook Ads,Running Shoes,180,18500,499,422,2,200,Converted
+4/17/2026,Instagram Ads,Premium Collection,230,22500,787,690,7,910,Converted
+4/17/2026,Email,Summer Sale,42,3600,298,272,14,1610,Converted
+4/18/2026,Google Ads,Premium Collection,295,29000,1305,1160,14,1750,Converted
+4/18/2026,TikTok Ads,Summer Sale,440,47000,2350,1770,1,110,Converted
+4/18/2026,Facebook Ads,Premium Collection,325,31500,850,725,3,345,Converted
+4/18/2026,Instagram Ads,Casual Shoes,132,13800,565,492,8,880,Converted
+4/18/2026,Email,New Arrivals,40,3300,272,250,11,1265,Converted
+4/19/2026,Google Ads,Casual Shoes,210,21500,1075,955,13,1495,Converted
+4/19/2026,TikTok Ads,Running Shoes,385,42500,1955,1460,1,95,Converted
+4/19/2026,Facebook Ads,Casual Shoes,145,15500,418,355,1,110,Converted
+4/19/2026,Instagram Ads,Running Shoes,190,19500,741,640,9,1080,Converted
+4/19/2026,Email,Premium Collection,48,3900,320,292,14,1750,Converted
+4/20/2026,Google Ads,New Arrivals,215,22500,1035,920,11,1210,Converted
+4/20/2026,TikTok Ads,Casual Shoes,345,37500,1687,1270,0,0,Not Converted
+4/20/2026,Facebook Ads,New Arrivals,165,17000,442,375,2,190,Converted
+4/20/2026,Instagram Ads,Summer Sale,205,21000,882,765,9,1035,Converted
+4/20/2026,Email,Running Shoes,28,2300,188,172,8,920,Converted
+4/21/2026,Google Ads,Running Shoes,225,23500,1175,1040,15,1800,Converted
+4/21/2026,Facebook Ads,Summer Sale,165,17000,493,415,2,210,Converted
+4/21/2026,TikTok Ads,Premium Collection,420,47000,2303,1730,1,105,Converted
+4/21/2026,Instagram Ads,New Arrivals,115,12000,480,420,6,660,Converted
+4/21/2026,Email,Casual Shoes,26,2200,180,162,8,920,Converted
+4/22/2026,Google Ads,Summer Sale,315,32500,1300,1155,14,1680,Converted
+4/22/2026,TikTok Ads,New Arrivals,440,49000,2205,1660,1,100,Converted
+4/22/2026,Instagram Ads,Premium Collection,215,21000,735,640,7,910,Converted
+4/22/2026,Facebook Ads,Running Shoes,180,18500,499,422,2,220,Converted
+4/22/2026,Email,Summer Sale,38,3200,262,240,12,1380,Converted
+4/23/2026,Google Ads,Premium Collection,285,28000,1260,1120,13,1625,Converted
+4/23/2026,TikTok Ads,Summer Sale,465,48500,2667,2000,0,0,Not Converted
+4/23/2026,Facebook Ads,Premium Collection,310,30000,810,695,3,330,Converted
+4/23/2026,Instagram Ads,Casual Shoes,122,12600,516,450,7,770,Converted
+4/23/2026,Email,New Arrivals,34,2800,232,210,9,1035,Converted
+4/24/2026,Google Ads,Casual Shoes,195,20000,1000,890,11,1265,Converted
+4/24/2026,TikTok Ads,Running Shoes,350,38500,1771,1320,1,85,Converted
+4/24/2026,Facebook Ads,Casual Shoes,128,13800,372,318,1,105,Converted
+4/24/2026,Instagram Ads,Running Shoes,172,17800,676,580,8,960,Converted
+4/24/2026,Email,Premium Collection,54,4300,352,322,15,1875,Converted
+4/25/2026,Google Ads,New Arrivals,240,25000,1150,1025,13,1430,Converted
+4/25/2026,TikTok Ads,Casual Shoes,330,36000,1620,1220,1,110,Converted
+4/25/2026,Facebook Ads,New Arrivals,175,18000,468,398,2,210,Converted
+4/25/2026,Instagram Ads,Summer Sale,220,22500,945,820,10,1150,Converted
+4/25/2026,Email,Running Shoes,30,2500,205,186,9,1035,Converted
+4/26/2026,Google Ads,Running Shoes,220,23000,1150,1020,14,1680,Converted
+4/26/2026,TikTok Ads,Premium Collection,425,46500,2185,1640,0,0,Not Converted
+4/26/2026,Facebook Ads,Summer Sale,185,19500,546,460,2,220,Converted
+4/26/2026,Instagram Ads,New Arrivals,120,12500,512,448,7,805,Converted
+4/26/2026,Email,Casual Shoes,25,2100,172,155,8,880,Converted
+4/27/2026,Google Ads,Summer Sale,330,34000,1360,1210,15,1800,Converted
+4/27/2026,TikTok Ads,New Arrivals,410,44500,2002,1510,1,90,Converted
+4/27/2026,Facebook Ads,Running Shoes,180,18500,499,422,2,200,Converted
+4/27/2026,Instagram Ads,Premium Collection,230,22500,787,690,7,910,Converted
+4/27/2026,Email,Summer Sale,42,3600,298,272,14,1610,Converted
+4/28/2026,Google Ads,Premium Collection,295,29000,1305,1160,14,1750,Converted
+4/28/2026,TikTok Ads,Summer Sale,440,47000,2350,1770,1,115,Converted
+4/28/2026,Facebook Ads,Premium Collection,325,31500,850,725,3,345,Converted
+4/28/2026,Instagram Ads,Casual Shoes,130,13500,553,482,8,880,Converted
+4/28/2026,Email,New Arrivals,40,3300,272,250,11,1265,Converted
+4/29/2026,Google Ads,Casual Shoes,205,21000,1050,935,13,1495,Converted
+4/29/2026,TikTok Ads,Running Shoes,380,42000,1932,1440,0,0,Not Converted
+4/29/2026,Facebook Ads,Casual Shoes,145,15500,418,355,1,110,Converted
+4/29/2026,Instagram Ads,Running Shoes,190,19500,741,640,9,1080,Converted
+4/29/2026,Email,Premium Collection,46,3800,312,286,13,1625,Converted
+4/30/2026,Google Ads,New Arrivals,220,23000,1058,940,11,1210,Converted
+4/30/2026,TikTok Ads,Casual Shoes,340,37000,1665,1260,1,95,Converted
+4/30/2026,Facebook Ads,New Arrivals,170,17500,455,388,2,210,Converted
+4/30/2026,Instagram Ads,Summer Sale,210,21500,903,785,9,1035,Converted
+4/30/2026,Email,Running Shoes,27,2250,184,168,8,920,Converted
+5/1/2026,Google Ads,Running Shoes,220,23000,1150,1020,14,1680,Converted
+5/1/2026,Facebook Ads,Summer Sale,155,16000,464,390,2,210,Converted
+5/1/2026,TikTok Ads,Premium Collection,400,46000,2254,1700,1,120,Converted
+5/1/2026,Instagram Ads,New Arrivals,105,11000,440,385,5,550,Converted
+5/1/2026,Email,Casual Shoes,28,2300,188,170,8,920,Converted
+5/2/2026,Google Ads,Summer Sale,325,33500,1340,1190,14,1680,Converted
+5/2/2026,TikTok Ads,New Arrivals,440,49000,2205,1660,0,0,Not Converted
+5/2/2026,Instagram Ads,Premium Collection,225,22000,770,670,7,910,Converted
+5/2/2026,Facebook Ads,Running Shoes,190,19500,526,445,2,220,Converted
+5/2/2026,Email,Summer Sale,40,3400,280,255,13,1495,Converted
+5/3/2026,Google Ads,Premium Collection,285,28000,1260,1120,13,1625,Converted
+5/3/2026,TikTok Ads,Summer Sale,475,49500,2722,2050,1,110,Converted
+5/3/2026,Facebook Ads,Premium Collection,300,29000,783,670,3,345,Converted
+5/3/2026,Instagram Ads,Casual Shoes,120,12500,512,445,7,770,Converted
+5/3/2026,Email,New Arrivals,30,2600,215,195,9,1035,Converted
+5/4/2026,Google Ads,Casual Shoes,195,20000,1000,890,11,1265,Converted
+5/4/2026,TikTok Ads,Running Shoes,360,40000,1840,1370,0,0,Not Converted
+5/4/2026,Facebook Ads,Casual Shoes,135,14500,391,335,1,105,Converted
+5/4/2026,Instagram Ads,Running Shoes,180,18500,703,605,8,960,Converted
+5/4/2026,Email,Premium Collection,55,4400,360,330,16,2000,Converted
+5/5/2026,Google Ads,New Arrivals,235,24500,1127,1005,13,1430,Converted
+5/5/2026,TikTok Ads,Casual Shoes,320,35000,1575,1190,1,90,Converted
+5/5/2026,Facebook Ads,New Arrivals,165,17500,455,390,2,200,Converted
+5/5/2026,Instagram Ads,Summer Sale,210,21500,903,785,9,1035,Converted
+5/5/2026,Email,Running Shoes,28,2300,190,172,8,920,Converted
+5/6/2026,Google Ads,Running Shoes,215,22800,1140,1015,14,1680,Converted
+5/6/2026,TikTok Ads,Premium Collection,440,48000,2256,1700,1,100,Converted
+5/6/2026,Facebook Ads,Summer Sale,200,21000,588,500,3,285,Converted
+5/6/2026,Instagram Ads,New Arrivals,115,12000,492,430,6,690,Converted
+5/6/2026,Email,Casual Shoes,22,1900,158,145,7,770,Converted
+5/7/2026,Google Ads,Summer Sale,340,35000,1400,1245,16,1920,Converted
+5/7/2026,TikTok Ads,New Arrivals,400,44000,1980,1500,0,0,Not Converted
+5/7/2026,Facebook Ads,Running Shoes,185,19000,513,435,2,210,Converted
+5/7/2026,Instagram Ads,Premium Collection,230,22500,787,690,7,910,Converted
+5/7/2026,Email,Summer Sale,42,3600,298,272,14,1610,Converted
+5/8/2026,Google Ads,Premium Collection,290,28500,1282,1140,13,1625,Converted
+5/8/2026,TikTok Ads,Summer Sale,425,45500,2275,1710,1,115,Converted
+5/8/2026,Facebook Ads,Premium Collection,320,31000,837,720,3,345,Converted
+5/8/2026,Instagram Ads,Casual Shoes,125,13000,533,465,8,880,Converted
+5/8/2026,Email,New Arrivals,38,3100,256,235,11,1265,Converted
+5/9/2026,Google Ads,Casual Shoes,200,20500,1025,910,12,1380,Converted
+5/9/2026,TikTok Ads,Running Shoes,380,42000,1932,1440,1,85,Converted
+5/9/2026,Facebook Ads,Casual Shoes,145,15500,418,355,1,105,Converted
+5/9/2026,Instagram Ads,Running Shoes,190,19500,741,640,9,1080,Converted
+5/9/2026,Email,Premium Collection,48,3900,320,292,14,1750,Converted
+5/10/2026,Google Ads,New Arrivals,225,23500,1081,960,12,1320,Converted
+5/10/2026,TikTok Ads,Casual Shoes,340,37000,1665,1260,0,0,Not Converted
+5/10/2026,Facebook Ads,New Arrivals,170,17500,455,388,2,190,Converted
+5/10/2026,Instagram Ads,Summer Sale,220,22500,945,820,10,1150,Converted
+5/10/2026,Email,Running Shoes,27,2250,184,168,8,920,Converted
+5/11/2026,Google Ads,Running Shoes,235,24200,1210,1080,15,1800,Converted
+5/11/2026,Facebook Ads,Summer Sale,165,17000,493,415,2,210,Converted
+5/11/2026,TikTok Ads,Premium Collection,415,47000,2303,1740,1,105,Converted
+5/11/2026,Instagram Ads,New Arrivals,110,11500,460,400,6,660,Converted
+5/11/2026,Email,Casual Shoes,28,2300,188,170,8,920,Converted
+5/12/2026,Google Ads,Summer Sale,315,32500,1300,1155,14,1680,Converted
+5/12/2026,TikTok Ads,New Arrivals,450,50000,2250,1700,1,90,Converted
+5/12/2026,Instagram Ads,Premium Collection,215,21000,735,640,7,910,Converted
+5/12/2026,Facebook Ads,Running Shoes,185,19000,513,430,2,220,Converted
+5/12/2026,Email,Summer Sale,38,3200,262,240,12,1380,Converted
+5/13/2026,Google Ads,Premium Collection,275,27000,1215,1080,12,1500,Converted
+5/13/2026,TikTok Ads,Summer Sale,460,48000,2640,1980,0,0,Not Converted
+5/13/2026,Facebook Ads,Premium Collection,305,29500,796,685,3,330,Converted
+5/13/2026,Instagram Ads,Casual Shoes,115,12000,492,428,7,770,Converted
+5/13/2026,Email,New Arrivals,32,2700,224,202,9,1035,Converted
+5/14/2026,Google Ads,Casual Shoes,185,19000,950,845,11,1265,Converted
+5/14/2026,TikTok Ads,Running Shoes,345,38000,1748,1310,1,80,Converted
+5/14/2026,Facebook Ads,Casual Shoes,125,13500,364,310,1,105,Converted
+5/14/2026,Instagram Ads,Running Shoes,170,17500,665,572,8,960,Converted
+5/14/2026,Email,Premium Collection,52,4200,344,315,15,1875,Converted
+5/15/2026,Google Ads,New Arrivals,240,25000,1150,1025,13,1430,Converted
+5/15/2026,TikTok Ads,Casual Shoes,335,36500,1642,1240,1,100,Converted
+5/15/2026,Facebook Ads,New Arrivals,180,18500,481,410,2,210,Converted
+5/15/2026,Instagram Ads,Summer Sale,225,23000,966,840,10,1150,Converted
+5/15/2026,Email,Running Shoes,32,2600,213,194,9,1035,Converted
+5/16/2026,Google Ads,Running Shoes,220,23000,1150,1020,14,1680,Converted
+5/16/2026,TikTok Ads,Premium Collection,430,47000,2209,1660,0,0,Not Converted
+5/16/2026,Facebook Ads,Summer Sale,190,20000,560,475,2,220,Converted
+5/16/2026,Instagram Ads,New Arrivals,125,13000,533,465,7,805,Converted
+5/16/2026,Email,Casual Shoes,25,2100,172,156,8,880,Converted
+5/17/2026,Google Ads,Summer Sale,335,34500,1380,1225,15,1800,Converted
+5/17/2026,TikTok Ads,New Arrivals,415,45000,2025,1530,1,115,Converted
+5/17/2026,Facebook Ads,Running Shoes,175,18000,486,412,2,200,Converted
+5/17/2026,Instagram Ads,Premium Collection,235,23000,805,705,7,910,Converted
+5/17/2026,Email,Summer Sale,44,3700,305,280,14,1610,Converted
+5/18/2026,Google Ads,Premium Collection,300,29500,1327,1180,14,1750,Converted
+5/18/2026,TikTok Ads,Summer Sale,435,46500,2325,1750,1,95,Converted
+5/18/2026,Facebook Ads,Premium Collection,330,32000,864,740,3,345,Converted
+5/18/2026,Instagram Ads,Casual Shoes,135,14000,574,500,8,880,Converted
+5/18/2026,Email,New Arrivals,42,3400,280,258,12,1380,Converted
+5/19/2026,Google Ads,Casual Shoes,210,21500,1075,955,13,1495,Converted
+5/19/2026,TikTok Ads,Running Shoes,390,43000,1978,1480,0,0,Not Converted
+5/19/2026,Facebook Ads,Casual Shoes,150,16000,432,368,1,110,Converted
+5/19/2026,Instagram Ads,Running Shoes,195,20000,760,655,9,1080,Converted
+5/19/2026,Email,Premium Collection,46,3800,312,285,13,1625,Converted
+5/20/2026,Google Ads,New Arrivals,215,22500,1035,920,11,1210,Converted
+5/20/2026,TikTok Ads,Casual Shoes,350,38000,1710,1290,1,105,Converted
+5/20/2026,Facebook Ads,New Arrivals,165,17000,442,375,2,190,Converted
+5/20/2026,Instagram Ads,Summer Sale,205,21000,882,765,9,1035,Converted
+5/20/2026,Email,Running Shoes,29,2400,197,180,8,920,Converted
+5/21/2026,Google Ads,Running Shoes,230,23800,1190,1060,15,1800,Converted
+5/21/2026,Facebook Ads,Summer Sale,170,17500,507,428,2,220,Converted
+5/21/2026,TikTok Ads,Premium Collection,425,47500,2327,1750,1,90,Converted
+5/21/2026,Instagram Ads,New Arrivals,118,12200,488,425,6,660,Converted
+5/21/2026,Email,Casual Shoes,26,2200,180,162,8,920,Converted
+5/22/2026,Google Ads,Summer Sale,320,33000,1320,1170,14,1680,Converted
+5/22/2026,TikTok Ads,New Arrivals,430,48000,2160,1620,0,0,Not Converted
+5/22/2026,Instagram Ads,Premium Collection,220,21500,752,655,7,910,Converted
+5/22/2026,Facebook Ads,Running Shoes,185,19000,513,432,2,220,Converted
+5/22/2026,Email,Summer Sale,38,3300,270,248,13,1495,Converted
+5/23/2026,Google Ads,Premium Collection,290,28500,1282,1140,13,1625,Converted
+5/23/2026,TikTok Ads,Summer Sale,480,50000,2750,2080,1,120,Converted
+5/23/2026,Facebook Ads,Premium Collection,310,30000,810,690,3,345,Converted
+5/23/2026,Instagram Ads,Casual Shoes,125,12800,524,455,7,770,Converted
+5/23/2026,Email,New Arrivals,32,2700,224,202,9,1035,Converted
+5/24/2026,Google Ads,Casual Shoes,195,20000,1000,890,12,1380,Converted
+5/24/2026,TikTok Ads,Running Shoes,365,40500,1863,1390,1,85,Converted
+5/24/2026,Facebook Ads,Casual Shoes,130,14000,378,322,1,105,Converted
+5/24/2026,Instagram Ads,Running Shoes,180,18500,703,605,8,960,Converted
+5/24/2026,Email,Premium Collection,52,4200,344,315,15,1875,Converted
+5/25/2026,Google Ads,New Arrivals,230,24000,1104,980,12,1320,Converted
+5/25/2026,TikTok Ads,Casual Shoes,325,35500,1597,1210,0,0,Not Converted
+5/25/2026,Facebook Ads,New Arrivals,170,17500,455,388,2,200,Converted
+5/25/2026,Instagram Ads,Summer Sale,215,22000,924,800,9,1035,Converted
+5/25/2026,Email,Running Shoes,30,2500,205,186,9,1035,Converted
+5/26/2026,Google Ads,Running Shoes,240,25000,1250,1120,16,1920,Converted
+5/26/2026,TikTok Ads,Premium Collection,450,48500,2280,1710,1,110,Converted
+5/26/2026,Facebook Ads,Summer Sale,205,21500,602,510,3,285,Converted
+5/26/2026,Instagram Ads,New Arrivals,120,12500,520,455,6,690,Converted
+5/26/2026,Email,Casual Shoes,22,1900,158,144,7,770,Converted
+5/27/2026,Google Ads,Summer Sale,330,34000,1360,1210,15,1800,Converted
+5/27/2026,TikTok Ads,New Arrivals,395,43500,1957,1490,1,100,Converted
+5/27/2026,Facebook Ads,Running Shoes,190,19500,526,445,2,210,Converted
+5/27/2026,Instagram Ads,Premium Collection,235,23000,805,705,7,910,Converted
+5/27/2026,Email,Summer Sale,44,3700,305,280,14,1610,Converted
+5/28/2026,Google Ads,Premium Collection,300,29500,1327,1180,14,1750,Converted
+5/28/2026,TikTok Ads,Summer Sale,420,45000,2250,1690,0,0,Not Converted
+5/28/2026,Facebook Ads,Premium Collection,315,30500,823,705,3,330,Converted
+5/28/2026,Instagram Ads,Casual Shoes,130,13500,553,482,8,880,Converted
+5/28/2026,Email,New Arrivals,36,3000,248,228,10,1150,Converted
+5/29/2026,Google Ads,Casual Shoes,205,21000,1050,935,13,1495,Converted
+5/29/2026,TikTok Ads,Running Shoes,375,41500,1909,1420,1,90,Converted
+5/29/2026,Facebook Ads,Casual Shoes,140,15000,405,340,1,110,Converted
+5/29/2026,Instagram Ads,Running Shoes,185,19000,722,620,9,1080,Converted
+5/29/2026,Email,Premium Collection,46,3800,312,286,13,1625,Converted
+5/30/2026,Google Ads,New Arrivals,220,23000,1058,940,11,1210,Converted
+5/30/2026,TikTok Ads,Casual Shoes,335,36500,1642,1240,0,0,Not Converted
+5/30/2026,Facebook Ads,New Arrivals,175,18000,468,400,2,210,Converted
+5/30/2026,Instagram Ads,Summer Sale,210,21500,903,785,9,1035,Converted
+5/30/2026,Email,Running Shoes,26,2200,180,164,8,920,Converted
+5/31/2026,Google Ads,Running Shoes,230,23800,1190,1060,15,1800,Converted
+5/31/2026,Facebook Ads,Summer Sale,160,16500,478,400,2,210,Converted
+5/31/2026,TikTok Ads,Premium Collection,410,46500,2278,1720,1,105,Converted
+5/31/2026,Instagram Ads,New Arrivals,110,11500,460,400,6,660,Converted
+5/31/2026,Email,Casual Shoes,27,2250,184,166,8,920,Converted
+6/1/2026,Google Ads,Running Shoes,215,23000,1150,1020,14,1680,Converted
+6/1/2026,Facebook Ads,Summer Sale,150,15500,450,380,2,210,Converted
+6/1/2026,TikTok Ads,Premium Collection,390,45500,2229,1680,0,0,Not Converted
+6/1/2026,Instagram Ads,New Arrivals,100,10500,420,365,5,550,Converted
+6/1/2026,Email,Casual Shoes,28,2300,188,170,8,920,Converted
+6/2/2026,Google Ads,Summer Sale,320,33000,1320,1170,14,1680,Converted
+6/2/2026,TikTok Ads,New Arrivals,430,48000,2160,1620,1,100,Converted
+6/2/2026,Instagram Ads,Premium Collection,220,21500,752,655,7,910,Converted
+6/2/2026,Facebook Ads,Running Shoes,185,19000,513,432,2,220,Converted
+6/2/2026,Email,Summer Sale,38,3300,270,248,13,1495,Converted
+6/3/2026,Google Ads,Premium Collection,290,28500,1282,1140,13,1625,Converted
+6/3/2026,TikTok Ads,Summer Sale,480,50000,2750,2080,0,0,Not Converted
+6/3/2026,Facebook Ads,Premium Collection,310,30000,810,690,3,345,Converted
+6/3/2026,Instagram Ads,Casual Shoes,125,12800,524,455,7,770,Converted
+6/3/2026,Email,New Arrivals,32,2700,224,202,9,1035,Converted
+6/4/2026,Google Ads,Casual Shoes,195,20000,1000,890,12,1380,Converted
+6/4/2026,TikTok Ads,Running Shoes,365,40500,1863,1390,1,95,Converted
+6/4/2026,Facebook Ads,Casual Shoes,130,14000,378,322,1,105,Converted
+6/4/2026,Instagram Ads,Running Shoes,180,18500,703,605,8,960,Converted
+6/4/2026,Email,Premium Collection,52,4200,344,315,15,1875,Converted
+6/5/2026,Google Ads,New Arrivals,230,24000,1104,980,12,1320,Converted
+6/5/2026,TikTok Ads,Casual Shoes,325,35500,1597,1210,1,85,Converted
+6/5/2026,Facebook Ads,New Arrivals,170,17500,455,388,2,200,Converted
+6/5/2026,Instagram Ads,Summer Sale,215,22000,924,800,9,1035,Converted
+6/5/2026,Email,Running Shoes,30,2500,205,186,9,1035,Converted
+6/6/2026,Google Ads,Running Shoes,240,25000,1250,1120,16,1920,Converted
+6/6/2026,TikTok Ads,Premium Collection,450,48500,2280,1710,0,0,Not Converted
+6/6/2026,Facebook Ads,Summer Sale,205,21500,602,510,3,285,Converted
+6/6/2026,Instagram Ads,New Arrivals,120,12500,520,455,6,690,Converted
+6/6/2026,Email,Casual Shoes,22,1900,158,144,7,770,Converted
+6/7/2026,Google Ads,Summer Sale,330,34000,1360,1210,15,1800,Converted
+6/7/2026,TikTok Ads,New Arrivals,395,43500,1957,1490,1,110,Converted
+6/7/2026,Facebook Ads,Running Shoes,190,19500,526,445,2,210,Converted
+6/7/2026,Instagram Ads,Premium Collection,235,23000,805,705,7,910,Converted
+6/7/2026,Email,Summer Sale,44,3700,305,280,14,1610,Converted
+6/8/2026,Google Ads,Premium Collection,300,29500,1327,1180,14,1750,Converted
+6/8/2026,TikTok Ads,Summer Sale,420,45000,2250,1690,1,90,Converted
+6/8/2026,Facebook Ads,Premium Collection,315,30500,823,705,3,330,Converted
+6/8/2026,Instagram Ads,Casual Shoes,130,13500,553,482,8,880,Converted
+6/8/2026,Email,New Arrivals,36,3000,248,228,10,1150,Converted
+6/9/2026,Google Ads,Casual Shoes,205,21000,1050,935,13,1495,Converted
+6/9/2026,TikTok Ads,Running Shoes,375,41500,1909,1420,0,0,Not Converted
+6/9/2026,Facebook Ads,Casual Shoes,140,15000,405,340,1,110,Converted
+6/9/2026,Instagram Ads,Running Shoes,185,19000,722,620,9,1080,Converted
+6/9/2026,Email,Premium Collection,46,3800,312,286,13,1625,Converted
+6/10/2026,Google Ads,New Arrivals,220,23000,1058,940,11,1210,Converted
+6/10/2026,TikTok Ads,Casual Shoes,335,36500,1642,1240,1,105,Converted
+6/10/2026,Facebook Ads,New Arrivals,175,18000,468,400,2,210,Converted
+6/10/2026,Instagram Ads,Summer Sale,210,21500,903,785,9,1035,Converted
+6/10/2026,Email,Running Shoes,26,2200,180,164,8,920,Converted
+6/11/2026,Google Ads,Running Shoes,230,23800,1190,1060,15,1800,Converted
+6/11/2026,Facebook Ads,Summer Sale,160,16500,478,400,2,210,Converted
+6/11/2026,TikTok Ads,Premium Collection,410,46500,2278,1720,1,100,Converted
+6/11/2026,Instagram Ads,New Arrivals,110,11500,460,400,6,660,Converted
+6/11/2026,Email,Casual Shoes,27,2250,184,166,8,920,Converted
+6/12/2026,Google Ads,Summer Sale,320,33000,1320,1170,14,1680,Converted
+6/12/2026,TikTok Ads,New Arrivals,445,49500,2227,1680,0,0,Not Converted
+6/12/2026,Instagram Ads,Premium Collection,220,21500,752,655,7,910,Converted
+6/12/2026,Facebook Ads,Running Shoes,185,19000,513,430,2,220,Converted
+6/12/2026,Email,Summer Sale,39,3300,270,248,13,1495,Converted
+6/13/2026,Google Ads,Premium Collection,280,27500,1237,1095,12,1500,Converted
+6/13/2026,TikTok Ads,Summer Sale,470,49000,2695,2020,1,115,Converted
+6/13/2026,Facebook Ads,Premium Collection,300,29000,783,670,3,345,Converted
+6/13/2026,Instagram Ads,Casual Shoes,120,12500,512,445,7,770,Converted
+6/13/2026,Email,New Arrivals,31,2600,215,195,9,1035,Converted
+6/14/2026,Google Ads,Casual Shoes,190,19500,975,865,11,1265,Converted
+6/14/2026,TikTok Ads,Running Shoes,355,39500,1817,1350,1,85,Converted
+6/14/2026,Facebook Ads,Casual Shoes,130,14000,378,322,1,105,Converted
+6/14/2026,Instagram Ads,Running Shoes,175,18000,684,588,8,960,Converted
+6/14/2026,Email,Premium Collection,50,4100,336,308,14,1750,Converted
+6/15/2026,Google Ads,New Arrivals,235,24500,1127,1005,13,1430,Converted
+6/15/2026,TikTok Ads,Casual Shoes,330,36000,1620,1220,0,0,Not Converted
+6/15/2026,Facebook Ads,New Arrivals,180,18500,481,410,2,210,Converted
+6/15/2026,Instagram Ads,Summer Sale,220,22500,945,820,10,1150,Converted
+6/15/2026,Email,Running Shoes,31,2500,205,188,9,1035,Converted
+6/16/2026,Google Ads,Running Shoes,225,23500,1175,1040,14,1680,Converted
+6/16/2026,TikTok Ads,Premium Collection,435,47500,2232,1680,1,110,Converted
+6/16/2026,Facebook Ads,Summer Sale,195,20500,574,485,2,220,Converted
+6/16/2026,Instagram Ads,New Arrivals,122,12800,524,458,7,805,Converted
+6/16/2026,Email,Casual Shoes,24,2000,164,148,7,770,Converted
+6/17/2026,Google Ads,Summer Sale,330,34000,1360,1210,15,1800,Converted
+6/17/2026,TikTok Ads,New Arrivals,410,44500,2002,1510,1,95,Converted
+6/17/2026,Facebook Ads,Running Shoes,180,18500,499,422,2,200,Converted
+6/17/2026,Instagram Ads,Premium Collection,230,22500,787,690,7,910,Converted
+6/17/2026,Email,Summer Sale,42,3600,298,272,14,1610,Converted
+6/18/2026,Google Ads,Premium Collection,295,29000,1305,1160,14,1750,Converted
+6/18/2026,TikTok Ads,Summer Sale,440,47000,2350,1770,0,0,Not Converted
+6/18/2026,Facebook Ads,Premium Collection,325,31500,850,725,3,345,Converted
+6/18/2026,Instagram Ads,Casual Shoes,132,13800,565,492,8,880,Converted
+6/18/2026,Email,New Arrivals,40,3300,272,250,11,1265,Converted
+6/19/2026,Google Ads,Casual Shoes,210,21500,1075,955,13,1495,Converted
+6/19/2026,TikTok Ads,Running Shoes,385,42500,1955,1460,1,100,Converted
+6/19/2026,Facebook Ads,Casual Shoes,145,15500,418,355,1,110,Converted
+6/19/2026,Instagram Ads,Running Shoes,190,19500,741,640,9,1080,Converted
+6/19/2026,Email,Premium Collection,48,3900,320,292,14,1750,Converted
+6/20/2026,Google Ads,New Arrivals,215,22500,1035,920,11,1210,Converted
+6/20/2026,TikTok Ads,Casual Shoes,345,37500,1687,1270,1,80,Converted
+6/20/2026,Facebook Ads,New Arrivals,165,17000,442,375,2,190,Converted
+6/20/2026,Instagram Ads,Summer Sale,205,21000,882,765,9,1035,Converted
+6/20/2026,Email,Running Shoes,28,2300,188,172,8,920,Converted
+6/21/2026,Google Ads,Running Shoes,225,23500,1175,1040,15,1800,Converted
+6/21/2026,Facebook Ads,Summer Sale,165,17000,493,415,2,210,Converted
+6/21/2026,TikTok Ads,Premium Collection,420,47000,2303,1730,0,0,Not Converted
+6/21/2026,Instagram Ads,New Arrivals,115,12000,480,420,6,660,Converted
+6/21/2026,Email,Casual Shoes,26,2200,180,162,8,920,Converted
+6/22/2026,Google Ads,Summer Sale,315,32500,1300,1155,14,1680,Converted
+6/22/2026,TikTok Ads,New Arrivals,440,49000,2205,1660,1,105,Converted
+6/22/2026,Instagram Ads,Premium Collection,215,21000,735,640,7,910,Converted
+6/22/2026,Facebook Ads,Running Shoes,180,18500,499,422,2,220,Converted
+6/22/2026,Email,Summer Sale,38,3200,262,240,12,1380,Converted
+6/23/2026,Google Ads,Premium Collection,285,28000,1260,1120,13,1625,Converted
+6/23/2026,TikTok Ads,Summer Sale,465,48500,2667,2000,1,110,Converted
+6/23/2026,Facebook Ads,Premium Collection,310,30000,810,695,3,330,Converted
+6/23/2026,Instagram Ads,Casual Shoes,122,12600,516,450,7,770,Converted
+6/23/2026,Email,New Arrivals,34,2800,232,210,9,1035,Converted
+6/24/2026,Google Ads,Casual Shoes,195,20000,1000,890,11,1265,Converted
+6/24/2026,TikTok Ads,Running Shoes,350,38500,1771,1320,0,0,Not Converted
+6/24/2026,Facebook Ads,Casual Shoes,128,13800,372,318,1,105,Converted
+6/24/2026,Instagram Ads,Running Shoes,172,17800,676,580,8,960,Converted
+6/24/2026,Email,Premium Collection,54,4300,352,322,15,1875,Converted
+6/25/2026,Google Ads,New Arrivals,240,25000,1150,1025,13,1430,Converted
+6/25/2026,TikTok Ads,Casual Shoes,330,36000,1620,1220,1,90,Converted
+6/25/2026,Facebook Ads,New Arrivals,175,18000,468,398,2,210,Converted
+6/25/2026,Instagram Ads,Summer Sale,220,22500,945,820,10,1150,Converted
+6/25/2026,Email,Running Shoes,30,2500,205,186,9,1035,Converted
+6/26/2026,Google Ads,Running Shoes,220,23000,1150,1020,14,1680,Converted
+6/26/2026,TikTok Ads,Premium Collection,425,46500,2185,1640,1,115,Converted
+6/26/2026,Facebook Ads,Summer Sale,185,19500,546,460,2,220,Converted
+6/26/2026,Instagram Ads,New Arrivals,120,12500,512,448,7,805,Converted
+6/26/2026,Email,Casual Shoes,25,2100,172,155,8,880,Converted
+6/27/2026,Google Ads,Summer Sale,330,34000,1360,1210,15,1800,Converted
+6/27/2026,TikTok Ads,New Arrivals,410,44500,2002,1510,0,0,Not Converted
+6/27/2026,Facebook Ads,Running Shoes,180,18500,499,422,2,200,Converted
+6/27/2026,Instagram Ads,Premium Collection,230,22500,787,690,7,910,Converted
+6/27/2026,Email,Summer Sale,42,3600,298,272,14,1610,Converted
+6/28/2026,Google Ads,Premium Collection,295,29000,1305,1160,14,1750,Converted
+6/28/2026,TikTok Ads,Summer Sale,440,47000,2350,1770,1,100,Converted
+6/28/2026,Facebook Ads,Premium Collection,325,31500,850,725,3,345,Converted
+6/28/2026,Instagram Ads,Casual Shoes,130,13500,553,482,8,880,Converted
+6/28/2026,Email,New Arrivals,40,3300,272,250,11,1265,Converted
+6/29/2026,Google Ads,Casual Shoes,205,21000,1050,935,13,1495,Converted
+6/29/2026,TikTok Ads,Running Shoes,380,42000,1932,1440,1,85,Converted
+6/29/2026,Facebook Ads,Casual Shoes,145,15500,418,355,1,110,Converted
+6/29/2026,Instagram Ads,Running Shoes,190,19500,741,640,9,1080,Converted
+6/29/2026,Email,Premium Collection,46,3800,312,286,13,1625,Converted
+6/30/2026,Google Ads,New Arrivals,220,23000,1058,940,11,1210,Converted
+6/30/2026,TikTok Ads,Casual Shoes,340,37000,1665,1260,0,0,Not Converted
+6/30/2026,Facebook Ads,New Arrivals,170,17500,455,388,2,210,Converted
+6/30/2026,Instagram Ads,Summer Sale,210,21500,903,785,9,1035,Converted
+6/30/2026,Email,Running Shoes,27,2250,184,168,8,920,Converted
+7/1/2026,Google Ads,Running Shoes,215,23000,1150,1020,14,1680,Converted
+7/1/2026,Facebook Ads,Summer Sale,150,15500,450,380,2,210,Converted
+7/1/2026,TikTok Ads,Premium Collection,390,45500,2229,1680,1,110,Converted
+7/1/2026,Instagram Ads,New Arrivals,100,10500,420,365,5,550,Converted
+7/1/2026,Email,Casual Shoes,28,2300,188,170,8,920,Converted
+7/2/2026,Google Ads,Summer Sale,320,33000,1320,1170,14,1680,Converted
+7/2/2026,TikTok Ads,New Arrivals,430,48000,2160,1620,0,0,Not Converted
+7/2/2026,Instagram Ads,Premium Collection,220,21500,752,655,7,910,Converted
+7/2/2026,Facebook Ads,Running Shoes,185,19000,513,432,2,220,Converted
+7/2/2026,Email,Summer Sale,38,3300,270,248,13,1495,Converted
+7/3/2026,Google Ads,Premium Collection,290,28500,1282,1140,13,1625,Converted
+7/3/2026,TikTok Ads,Summer Sale,480,50000,2750,2080,1,120,Converted
+7/3/2026,Facebook Ads,Premium Collection,310,30000,810,690,3,345,Converted
+7/3/2026,Instagram Ads,Casual Shoes,125,12800,524,455,7,770,Converted
+7/3/2026,Email,New Arrivals,32,2700,224,202,9,1035,Converted
+7/4/2026,Google Ads,Casual Shoes,195,20000,1000,890,12,1380,Converted
+7/4/2026,TikTok Ads,Running Shoes,365,40500,1863,1390,1,85,Converted
+7/4/2026,Facebook Ads,Casual Shoes,130,14000,378,322,1,105,Converted
+7/4/2026,Instagram Ads,Running Shoes,180,18500,703,605,8,960,Converted
+7/4/2026,Email,Premium Collection,52,4200,344,315,15,1875,Converted
+7/5/2026,Google Ads,New Arrivals,230,24000,1104,980,12,1320,Converted
+7/5/2026,TikTok Ads,Casual Shoes,325,35500,1597,1210,0,0,Not Converted
+7/5/2026,Facebook Ads,New Arrivals,170,17500,455,388,2,200,Converted
+7/5/2026,Instagram Ads,Summer Sale,215,22000,924,800,9,1035,Converted
+7/5/2026,Email,Running Shoes,30,2500,205,186,9,1035,Converted
+7/6/2026,Google Ads,Running Shoes,240,25000,1250,1120,16,1920,Converted
+7/6/2026,TikTok Ads,Premium Collection,450,48500,2280,1710,1,115,Converted
+7/6/2026,Facebook Ads,Summer Sale,205,21500,602,510,3,285,Converted
+7/6/2026,Instagram Ads,New Arrivals,120,12500,520,455,6,690,Converted
+7/6/2026,Email,Casual Shoes,22,1900,158,144,7,770,Converted
+7/7/2026,Google Ads,Summer Sale,330,34000,1360,1210,15,1800,Converted
+7/7/2026,TikTok Ads,New Arrivals,395,43500,1957,1490,1,95,Converted
+7/7/2026,Facebook Ads,Running Shoes,190,19500,526,445,2,210,Converted
+7/7/2026,Instagram Ads,Premium Collection,235,23000,805,705,7,910,Converted
+7/7/2026,Email,Summer Sale,44,3700,305,280,14,1610,Converted
+7/8/2026,Google Ads,Premium Collection,300,29500,1327,1180,14,1750,Converted
+7/8/2026,TikTok Ads,Summer Sale,420,45000,2250,1690,0,0,Not Converted
+7/8/2026,Facebook Ads,Premium Collection,315,30500,823,705,3,330,Converted
+7/8/2026,Instagram Ads,Casual Shoes,130,13500,553,482,8,880,Converted
+7/8/2026,Email,New Arrivals,36,3000,248,228,10,1150,Converted
+7/9/2026,Google Ads,Casual Shoes,205,21000,1050,935,13,1495,Converted
+7/9/2026,TikTok Ads,Running Shoes,375,41500,1909,1420,1,105,Converted
+7/9/2026,Facebook Ads,Casual Shoes,140,15000,405,340,1,110,Converted
+7/9/2026,Instagram Ads,Running Shoes,185,19000,722,620,9,1080,Converted
+7/9/2026,Email,Premium Collection,46,3800,312,286,13,1625,Converted
+7/10/2026,Google Ads,New Arrivals,220,23000,1058,940,11,1210,Converted
+7/10/2026,TikTok Ads,Casual Shoes,335,36500,1642,1240,1,90,Converted
+7/10/2026,Facebook Ads,New Arrivals,175,18000,468,400,2,210,Converted
+7/10/2026,Instagram Ads,Summer Sale,210,21500,903,785,9,1035,Converted
+7/10/2026,Email,Running Shoes,26,2200,180,164,8,920,Converted
+7/11/2026,Google Ads,Running Shoes,230,23800,1190,1060,15,1800,Converted
+7/11/2026,Facebook Ads,Summer Sale,160,16500,478,400,2,210,Converted
+7/11/2026,TikTok Ads,Premium Collection,410,46500,2278,1720,0,0,Not Converted
+7/11/2026,Instagram Ads,New Arrivals,110,11500,460,400,6,660,Converted
+7/11/2026,Email,Casual Shoes,27,2250,184,166,8,920,Converted
+7/12/2026,Google Ads,Summer Sale,320,33000,1320,1170,14,1680,Converted
+7/12/2026,TikTok Ads,New Arrivals,445,49500,2227,1680,1,110,Converted
+7/12/2026,Instagram Ads,Premium Collection,220,21500,752,655,7,910,Converted
+7/12/2026,Facebook Ads,Running Shoes,185,19000,513,430,2,220,Converted
+7/12/2026,Email,Summer Sale,39,3300,270,248,13,1495,Converted
+7/13/2026,Google Ads,Premium Collection,280,27500,1237,1095,12,1500,Converted
+7/13/2026,TikTok Ads,Summer Sale,470,49000,2695,2020,1,95,Converted
+7/13/2026,Facebook Ads,Premium Collection,300,29000,783,670,3,345,Converted
+7/13/2026,Instagram Ads,Casual Shoes,120,12500,512,445,7,770,Converted
+7/13/2026,Email,New Arrivals,31,2600,215,195,9,1035,Converted
+7/14/2026,Google Ads,Casual Shoes,190,19500,975,865,11,1265,Converted
+7/14/2026,TikTok Ads,Running Shoes,355,39500,1817,1350,0,0,Not Converted
+7/14/2026,Facebook Ads,Casual Shoes,130,14000,378,322,1,105,Converted
+7/14/2026,Instagram Ads,Running Shoes,175,18000,684,588,8,960,Converted
+7/14/2026,Email,Premium Collection,50,4100,336,308,14,1750,Converted
+7/15/2026,Google Ads,New Arrivals,235,24500,1127,1005,13,1430,Converted
+7/15/2026,TikTok Ads,Casual Shoes,330,36000,1620,1220,1,100,Converted
+7/15/2026,Facebook Ads,New Arrivals,180,18500,481,410,2,210,Converted
+7/15/2026,Instagram Ads,Summer Sale,220,22500,945,820,10,1150,Converted
+7/15/2026,Email,Running Shoes,31,2500,205,188,9,1035,Converted
+7/16/2026,Google Ads,Running Shoes,225,23500,1175,1040,14,1680,Converted
+7/16/2026,TikTok Ads,Premium Collection,435,47500,2232,1680,1,90,Converted
+7/16/2026,Facebook Ads,Summer Sale,195,20500,574,485,2,220,Converted
+7/16/2026,Instagram Ads,New Arrivals,122,12800,524,458,7,805,Converted
+7/16/2026,Email,Casual Shoes,24,2000,164,148,7,770,Converted
+7/17/2026,Google Ads,Summer Sale,330,34000,1360,1210,15,1800,Converted
+7/17/2026,TikTok Ads,New Arrivals,410,44500,2002,1510,0,0,Not Converted
+7/17/2026,Facebook Ads,Running Shoes,180,18500,499,422,2,200,Converted
+7/17/2026,Instagram Ads,Premium Collection,230,22500,787,690,7,910,Converted
+7/17/2026,Email,Summer Sale,42,3600,298,272,14,1610,Converted
+7/18/2026,Google Ads,Premium Collection,295,29000,1305,1160,14,1750,Converted
+7/18/2026,TikTok Ads,Summer Sale,440,47000,2350,1770,1,110,Converted
+7/18/2026,Facebook Ads,Premium Collection,325,31500,850,725,3,345,Converted
+7/18/2026,Instagram Ads,Casual Shoes,132,13800,565,492,8,880,Converted
+7/18/2026,Email,New Arrivals,40,3300,272,250,11,1265,Converted
+7/19/2026,Google Ads,Casual Shoes,210,21500,1075,955,13,1495,Converted
+7/19/2026,TikTok Ads,Running Shoes,385,42500,1955,1460,1,95,Converted
+7/19/2026,Facebook Ads,Casual Shoes,145,15500,418,355,1,110,Converted
+7/19/2026,Instagram Ads,Running Shoes,190,19500,741,640,9,1080,Converted
+7/19/2026,Email,Premium Collection,48,3900,320,292,14,1750,Converted
+7/20/2026,Google Ads,New Arrivals,215,22500,1035,920,11,1210,Converted
+7/20/2026,TikTok Ads,Casual Shoes,345,37500,1687,1270,0,0,Not Converted
+7/20/2026,Facebook Ads,New Arrivals,165,17000,442,375,2,190,Converted
+7/20/2026,Instagram Ads,Summer Sale,205,21000,882,765,9,1035,Converted
+7/20/2026,Email,Running Shoes,28,2300,188,172,8,920,Converted
+7/21/2026,Google Ads,Running Shoes,225,23500,1175,1040,15,1800,Converted
+7/21/2026,Facebook Ads,Summer Sale,165,17000,493,415,2,210,Converted
+7/21/2026,TikTok Ads,Premium Collection,420,47000,2303,1730,1,105,Converted
+7/21/2026,Instagram Ads,New Arrivals,115,12000,480,420,6,660,Converted
+7/21/2026,Email,Casual Shoes,26,2200,180,162,8,920,Converted
+7/22/2026,Google Ads,Summer Sale,315,32500,1300,1155,14,1680,Converted
+7/22/2026,TikTok Ads,New Arrivals,440,49000,2205,1660,1,100,Converted
+7/22/2026,Instagram Ads,Premium Collection,215,21000,735,640,7,910,Converted
+7/22/2026,Facebook Ads,Running Shoes,180,18500,499,422,2,220,Converted
+7/22/2026,Email,Summer Sale,38,3200,262,240,12,1380,Converted
+7/23/2026,Google Ads,Premium Collection,285,28000,1260,1120,13,1625,Converted
+7/23/2026,TikTok Ads,Summer Sale,465,48500,2667,2000,0,0,Not Converted
+7/23/2026,Facebook Ads,Premium Collection,310,30000,810,695,3,330,Converted
+7/23/2026,Instagram Ads,Casual Shoes,122,12600,516,450,7,770,Converted
+7/23/2026,Email,New Arrivals,34,2800,232,210,9,1035,Converted
+7/24/2026,Google Ads,Casual Shoes,195,20000,1000,890,11,1265,Converted
+7/24/2026,TikTok Ads,Running Shoes,350,38500,1771,1320,1,85,Converted
+7/24/2026,Facebook Ads,Casual Shoes,128,13800,372,318,1,105,Converted
+7/24/2026,Instagram Ads,Running Shoes,172,17800,676,580,8,960,Converted
+7/24/2026,Email,Premium Collection,54,4300,352,322,15,1875,Converted
+7/25/2026,Google Ads,New Arrivals,240,25000,1150,1025,13,1430,Converted
+7/25/2026,TikTok Ads,Casual Shoes,330,36000,1620,1220,1,110,Converted
+7/25/2026,Facebook Ads,New Arrivals,175,18000,468,398,2,210,Converted
+7/25/2026,Instagram Ads,Summer Sale,220,22500,945,820,10,1150,Converted
+7/25/2026,Email,Running Shoes,30,2500,205,186,9,1035,Converted
+7/26/2026,Google Ads,Running Shoes,220,23000,1150,1020,14,1680,Converted
+7/26/2026,TikTok Ads,Premium Collection,425,46500,2185,1640,0,0,Not Converted
+7/26/2026,Facebook Ads,Summer Sale,185,19500,546,460,2,220,Converted
+7/26/2026,Instagram Ads,New Arrivals,120,12500,512,448,7,805,Converted
+7/26/2026,Email,Casual Shoes,25,2100,172,155,8,880,Converted
+7/27/2026,Google Ads,Summer Sale,330,34000,1360,1210,15,1800,Converted
+7/27/2026,TikTok Ads,New Arrivals,410,44500,2002,1510,1,90,Converted
+7/27/2026,Facebook Ads,Running Shoes,180,18500,499,422,2,200,Converted
+7/27/2026,Instagram Ads,Premium Collection,230,22500,787,690,7,910,Converted
+7/27/2026,Email,Summer Sale,42,3600,298,272,14,1610,Converted
+7/28/2026,Google Ads,Premium Collection,295,29000,1305,1160,14,1750,Converted
+7/28/2026,TikTok Ads,Summer Sale,440,47000,2350,1770,1,115,Converted
+7/28/2026,Facebook Ads,Premium Collection,325,31500,850,725,3,345,Converted
+7/28/2026,Instagram Ads,Casual Shoes,130,13500,553,482,8,880,Converted
+7/28/2026,Email,New Arrivals,40,3300,272,250,11,1265,Converted
+7/29/2026,Google Ads,Casual Shoes,205,21000,1050,935,13,1495,Converted
+7/29/2026,TikTok Ads,Running Shoes,380,42000,1932,1440,0,0,Not Converted
+7/29/2026,Facebook Ads,Casual Shoes,145,15500,418,355,1,110,Converted
+7/29/2026,Instagram Ads,Running Shoes,190,19500,741,640,9,1080,Converted
+7/29/2026,Email,Premium Collection,46,3800,312,286,13,1625,Converted
+7/30/2026,Google Ads,New Arrivals,220,23000,1058,940,11,1210,Converted
+7/30/2026,TikTok Ads,Casual Shoes,340,37000,1665,1260,1,95,Converted
+7/30/2026,Facebook Ads,New Arrivals,170,17500,455,388,2,210,Converted
+7/30/2026,Instagram Ads,Summer Sale,210,21500,903,785,9,1035,Converted
+7/30/2026,Email,Running Shoes,27,2250,184,168,8,920,Converted
+7/31/2026,Google Ads,Running Shoes,230,23800,1190,1060,15,1800,Converted
+7/31/2026,Facebook Ads,Summer Sale,165,17000,493,415,2,210,Converted
+7/31/2026,TikTok Ads,Premium Collection,415,47000,2303,1740,1,105,Converted
+7/31/2026,Instagram Ads,New Arrivals,110,11500,460,400,6,660,Converted
+7/31/2026,Email,Casual Shoes,28,2300,188,170,8,920,Converted
+8/1/2026,Google Ads,Running Shoes,215,23000,1150,1020,14,1680,Converted
+8/1/2026,Facebook Ads,Summer Sale,150,15500,450,380,2,210,Converted
+8/1/2026,TikTok Ads,Premium Collection,390,45500,2229,1680,0,0,Not Converted
+8/1/2026,Instagram Ads,New Arrivals,100,10500,420,365,5,550,Converted
+8/1/2026,Email,Casual Shoes,28,2300,188,170,8,920,Converted
+8/2/2026,Google Ads,Summer Sale,320,33000,1320,1170,14,1680,Converted
+8/2/2026,TikTok Ads,New Arrivals,430,48000,2160,1620,1,100,Converted
+8/2/2026,Instagram Ads,Premium Collection,220,21500,752,655,7,910,Converted
+8/2/2026,Facebook Ads,Running Shoes,185,19000,513,432,2,220,Converted
+8/2/2026,Email,Summer Sale,38,3300,270,248,13,1495,Converted
+8/3/2026,Google Ads,Premium Collection,290,28500,1282,1140,13,1625,Converted
+8/3/2026,TikTok Ads,Summer Sale,480,50000,2750,2080,1,120,Converted
+8/3/2026,Facebook Ads,Premium Collection,310,30000,810,690,3,345,Converted
+8/3/2026,Instagram Ads,Casual Shoes,125,12800,524,455,7,770,Converted
+8/3/2026,Email,New Arrivals,32,2700,224,202,9,1035,Converted
+8/4/2026,Google Ads,Casual Shoes,195,20000,1000,890,12,1380,Converted
+8/4/2026,TikTok Ads,Running Shoes,365,40500,1863,1390,0,0,Not Converted
+8/4/2026,Facebook Ads,Casual Shoes,130,14000,378,322,1,105,Converted
+8/4/2026,Instagram Ads,Running Shoes,180,18500,703,605,8,960,Converted
+8/4/2026,Email,Premium Collection,52,4200,344,315,15,1875,Converted
+8/5/2026,Google Ads,New Arrivals,230,24000,1104,980,12,1320,Converted
+8/5/2026,TikTok Ads,Casual Shoes,325,35500,1597,1210,1,85,Converted
+8/5/2026,Facebook Ads,New Arrivals,170,17500,455,388,2,200,Converted
+8/5/2026,Instagram Ads,Summer Sale,215,22000,924,800,9,1035,Converted
+8/5/2026,Email,Running Shoes,30,2500,205,186,9,1035,Converted
+8/6/2026,Google Ads,Running Shoes,240,25000,1250,1120,16,1920,Converted
+8/6/2026,TikTok Ads,Premium Collection,450,48500,2280,1710,1,115,Converted
+8/6/2026,Facebook Ads,Summer Sale,205,21500,602,510,3,285,Converted
+8/6/2026,Instagram Ads,New Arrivals,120,12500,520,455,6,690,Converted
+8/6/2026,Email,Casual Shoes,22,1900,158,144,7,770,Converted
+8/7/2026,Google Ads,Summer Sale,330,34000,1360,1210,15,1800,Converted
+8/7/2026,TikTok Ads,New Arrivals,395,43500,1957,1490,0,0,Not Converted
+8/7/2026,Facebook Ads,Running Shoes,190,19500,526,445,2,210,Converted
+8/7/2026,Instagram Ads,Premium Collection,235,23000,805,705,7,910,Converted
+8/7/2026,Email,Summer Sale,44,3700,305,280,14,1610,Converted
+8/8/2026,Google Ads,Premium Collection,300,29500,1327,1180,14,1750,Converted
+8/8/2026,TikTok Ads,Summer Sale,420,45000,2250,1690,1,95,Converted
+8/8/2026,Facebook Ads,Premium Collection,315,30500,823,705,3,330,Converted
+8/8/2026,Instagram Ads,Casual Shoes,130,13500,553,482,8,880,Converted
+8/8/2026,Email,New Arrivals,36,3000,248,228,10,1150,Converted
+8/9/2026,Google Ads,Casual Shoes,205,21000,1050,935,13,1495,Converted
+8/9/2026,TikTok Ads,Running Shoes,375,41500,1909,1420,1,105,Converted
+8/9/2026,Facebook Ads,Casual Shoes,140,15000,405,340,1,110,Converted
+8/9/2026,Instagram Ads,Running Shoes,185,19000,722,620,9,1080,Converted
+8/9/2026,Email,Premium Collection,46,3800,312,286,13,1625,Converted
+8/10/2026,Google Ads,New Arrivals,220,23000,1058,940,11,1210,Converted
+8/10/2026,TikTok Ads,Casual Shoes,335,36500,1642,1240,0,0,Not Converted
+8/10/2026,Facebook Ads,New Arrivals,175,18000,468,400,2,210,Converted
+8/10/2026,Instagram Ads,Summer Sale,210,21500,903,785,9,1035,Converted
+8/10/2026,Email,Running Shoes,26,2200,180,164,8,920,Converted
+8/11/2026,Google Ads,Running Shoes,230,23800,1190,1060,15,1800,Converted
+8/11/2026,Facebook Ads,Summer Sale,160,16500,478,400,2,210,Converted
+8/11/2026,TikTok Ads,Premium Collection,410,46500,2278,1720,1,90,Converted
+8/11/2026,Instagram Ads,New Arrivals,110,11500,460,400,6,660,Converted
+8/11/2026,Email,Casual Shoes,27,2250,184,166,8,920,Converted
+8/12/2026,Google Ads,Summer Sale,320,33000,1320,1170,14,1680,Converted
+8/12/2026,TikTok Ads,New Arrivals,445,49500,2227,1680,1,110,Converted
+8/12/2026,Instagram Ads,Premium Collection,220,21500,752,655,7,910,Converted
+8/12/2026,Facebook Ads,Running Shoes,185,19000,513,430,2,220,Converted
+8/12/2026,Email,Summer Sale,39,3300,270,248,13,1495,Converted
+8/13/2026,Google Ads,Premium Collection,280,27500,1237,1095,12,1500,Converted
+8/13/2026,TikTok Ads,Summer Sale,470,49000,2695,2020,0,0,Not Converted
+8/13/2026,Facebook Ads,Premium Collection,300,29000,783,670,3,345,Converted
+8/13/2026,Instagram Ads,Casual Shoes,120,12500,512,445,7,770,Converted
+8/13/2026,Email,New Arrivals,31,2600,215,195,9,1035,Converted
+8/14/2026,Google Ads,Casual Shoes,190,19500,975,865,11,1265,Converted
+8/14/2026,TikTok Ads,Running Shoes,355,39500,1817,1350,1,95,Converted
+8/14/2026,Facebook Ads,Casual Shoes,130,14000,378,322,1,105,Converted
+8/14/2026,Instagram Ads,Running Shoes,175,18000,684,588,8,960,Converted
+8/14/2026,Email,Premium Collection,50,4100,336,308,14,1750,Converted
+8/15/2026,Google Ads,New Arrivals,235,24500,1127,1005,13,1430,Converted
+8/15/2026,TikTok Ads,Casual Shoes,330,36000,1620,1220,1,100,Converted
+8/15/2026,Facebook Ads,New Arrivals,180,18500,481,410,2,210,Converted
+8/15/2026,Instagram Ads,Summer Sale,220,22500,945,820,10,1150,Converted
+8/15/2026,Email,Running Shoes,31,2500,205,188,9,1035,Converted
+8/16/2026,Google Ads,Running Shoes,225,23500,1175,1040,14,1680,Converted
+8/16/2026,TikTok Ads,Premium Collection,435,47500,2232,1680,0,0,Not Converted
+8/16/2026,Facebook Ads,Summer Sale,195,20500,574,485,2,220,Converted
+8/16/2026,Instagram Ads,New Arrivals,122,12800,524,458,7,805,Converted
+8/16/2026,Email,Casual Shoes,24,2000,164,148,7,770,Converted
+8/17/2026,Google Ads,Summer Sale,330,34000,1360,1210,15,1800,Converted
+8/17/2026,TikTok Ads,New Arrivals,410,44500,2002,1510,1,110,Converted
+8/17/2026,Facebook Ads,Running Shoes,180,18500,499,422,2,200,Converted
+8/17/2026,Instagram Ads,Premium Collection,230,22500,787,690,7,910,Converted
+8/17/2026,Email,Summer Sale,42,3600,298,272,14,1610,Converted
+8/18/2026,Google Ads,Premium Collection,295,29000,1305,1160,14,1750,Converted
+8/18/2026,TikTok Ads,Summer Sale,440,47000,2350,1770,0,0,Not Converted
+8/18/2026,Facebook Ads,Premium Collection,325,31500,850,725,3,345,Converted
+8/18/2026,Instagram Ads,Casual Shoes,132,13800,565,492,8,880,Converted
+8/18/2026,Email,New Arrivals,40,3300,272,250,11,1265,Converted
+8/19/2026,Google Ads,Casual Shoes,210,21500,1075,955,13,1495,Converted
+8/19/2026,TikTok Ads,Running Shoes,385,42500,1955,1460,1,85,Converted
+8/19/2026,Facebook Ads,Casual Shoes,145,15500,418,355,1,110,Converted
+8/19/2026,Instagram Ads,Running Shoes,190,19500,741,640,9,1080,Converted
+8/19/2026,Email,Premium Collection,48,3900,320,292,14,1750,Converted
+8/20/2026,Google Ads,New Arrivals,215,22500,1035,920,11,1210,Converted
+8/20/2026,TikTok Ads,Casual Shoes,345,37500,1687,1270,1,105,Converted
+8/20/2026,Facebook Ads,New Arrivals,165,17000,442,375,2,190,Converted
+8/20/2026,Instagram Ads,Summer Sale,205,21000,882,765,9,1035,Converted
+8/20/2026,Email,Running Shoes,28,2300,188,172,8,920,Converted
+8/21/2026,Google Ads,Running Shoes,225,23500,1175,1040,15,1800,Converted
+8/21/2026,Facebook Ads,Summer Sale,165,17000,493,415,2,210,Converted
+8/21/2026,TikTok Ads,Premium Collection,420,47000,2303,1730,0,0,Not Converted
+8/21/2026,Instagram Ads,New Arrivals,115,12000,480,420,6,660,Converted
+8/21/2026,Email,Casual Shoes,26,2200,180,162,8,920,Converted
+8/22/2026,Google Ads,Summer Sale,315,32500,1300,1155,14,1680,Converted
+8/22/2026,TikTok Ads,New Arrivals,440,49000,2205,1660,1,90,Converted
+8/22/2026,Instagram Ads,Premium Collection,215,21000,735,640,7,910,Converted
+8/22/2026,Facebook Ads,Running Shoes,180,18500,499,422,2,220,Converted
+8/22/2026,Email,Summer Sale,38,3200,262,240,12,1380,Converted
+8/23/2026,Google Ads,Premium Collection,285,28000,1260,1120,13,1625,Converted
+8/23/2026,TikTok Ads,Summer Sale,465,48500,2667,2000,1,110,Converted
+8/23/2026,Facebook Ads,Premium Collection,310,30000,810,695,3,330,Converted
+8/23/2026,Instagram Ads,Casual Shoes,122,12600,516,450,7,770,Converted
+8/23/2026,Email,New Arrivals,34,2800,232,210,9,1035,Converted
+8/24/2026,Google Ads,Casual Shoes,195,20000,1000,890,11,1265,Converted
+8/24/2026,TikTok Ads,Running Shoes,350,38500,1771,1320,0,0,Not Converted
+8/24/2026,Facebook Ads,Casual Shoes,128,13800,372,318,1,105,Converted
+8/24/2026,Instagram Ads,Running Shoes,172,17800,676,580,8,960,Converted
+8/24/2026,Email,Premium Collection,54,4300,352,322,15,1875,Converted
+8/25/2026,Google Ads,New Arrivals,240,25000,1150,1025,13,1430,Converted
+8/25/2026,TikTok Ads,Casual Shoes,330,36000,1620,1220,1,95,Converted
+8/25/2026,Facebook Ads,New Arrivals,175,18000,468,398,2,210,Converted
+8/25/2026,Instagram Ads,Summer Sale,220,22500,945,820,10,1150,Converted
+8/25/2026,Email,Running Shoes,30,2500,205,186,9,1035,Converted
+8/26/2026,Google Ads,Running Shoes,220,23000,1150,1020,14,1680,Converted
+8/26/2026,TikTok Ads,Premium Collection,425,46500,2185,1640,0,0,Not Converted
+8/26/2026,Facebook Ads,Summer Sale,185,19500,546,460,2,220,Converted
+8/26/2026,Instagram Ads,New Arrivals,120,12500,512,448,7,805,Converted
+8/26/2026,Email,Casual Shoes,25,2100,172,155,8,880,Converted
+8/27/2026,Google Ads,Summer Sale,330,34000,1360,1210,15,1800,Converted
+8/27/2026,TikTok Ads,New Arrivals,410,44500,2002,1510,1,100,Converted
+8/27/2026,Facebook Ads,Running Shoes,180,18500,499,422,2,200,Converted
+8/27/2026,Instagram Ads,Premium Collection,230,22500,787,690,7,910,Converted
+8/27/2026,Email,Summer Sale,42,3600,298,272,14,1610,Converted
+8/28/2026,Google Ads,Premium Collection,295,29000,1305,1160,14,1750,Converted
+8/28/2026,TikTok Ads,Summer Sale,440,47000,2350,1770,0,0,Not Converted
+8/28/2026,Facebook Ads,Premium Collection,325,31500,850,725,3,345,Converted
+8/28/2026,Instagram Ads,Casual Shoes,130,13500,553,482,8,880,Converted
+8/28/2026,Email,New Arrivals,40,3300,272,250,11,1265,Converted
+8/29/2026,Google Ads,Casual Shoes,205,21000,1050,935,13,1495,Converted
+8/29/2026,TikTok Ads,Running Shoes,380,42000,1932,1440,1,85,Converted
+8/29/2026,Facebook Ads,Casual Shoes,145,15500,418,355,1,110,Converted
+8/29/2026,Instagram Ads,Running Shoes,190,19500,741,640,9,1080,Converted
+8/29/2026,Email,Premium Collection,46,3800,312,286,13,1625,Converted
+8/30/2026,Google Ads,New Arrivals,220,23000,1058,940,11,1210,Converted
+8/30/2026,TikTok Ads,Casual Shoes,340,37000,1665,1260,0,0,Not Converted
+8/30/2026,Facebook Ads,New Arrivals,170,17500,455,388,2,210,Converted
+8/30/2026,Instagram Ads,Summer Sale,210,21500,903,785,9,1035,Converted
+8/30/2026,Email,Running Shoes,27,2250,184,168,8,920,Converted
+8/31/2026,Google Ads,Running Shoes,230,23800,1190,1060,15,1800,Converted
+8/31/2026,Facebook Ads,Summer Sale,165,17000,493,415,2,210,Converted
+8/31/2026,TikTok Ads,Premium Collection,415,47000,2303,1740,1,110,Converted
+8/31/2026,Instagram Ads,New Arrivals,110,11500,460,400,6,660,Converted
+8/31/2026,Email,Casual Shoes,28,2300,188,170,8,920,Converted
