@@ -37,6 +37,8 @@ While these overall numbers appear healthy, they hide major differences between 
 ---
 
 ## Dataset
+This project uses a **synthetic dataset** generated with the assistance of the **Google Gemini** and **Claude** for portfolio and learning purposes.
+
 
 ### campaigns
 
