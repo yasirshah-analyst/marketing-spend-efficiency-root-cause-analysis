@@ -35,33 +35,6 @@ TikTok Ads generated a Cost Per Customer of $612.88—dramatically higher than a
 
 ---
 
-## The Finding, In Numbers
-
-| Marketing Channel | Total Spend | Customers Acquired | Cost Per Customer (CAC) | Visitor-to-Customer Conversion Rate | Revenue Per Customer |
-| --- | --- | --- | --- | --- | --- |
-| **TikTok Ads** | Highest Share | Fewest | **$612.88** | **0.03%** | $101.04 |
-| **Facebook Ads** | Moderate | Moderate | $95.87 | 0.38% | $106.91 |
-| **Instagram Ads** | Moderate | High | $22.33 | 1.13% | $111.58 |
-| **Google Ads** | Moderate | High | $18.96 | 1.13% | $118.37 |
-| **Email** | Low | High | $3.35 | 4.36% | $117.84 |
-| **Total / Average** | **$194,140** | **~6,000** | **$30.73** | **—** | **$116.79** |
-
----
-
-## Business Problem
-
-A company is investing heavily in digital marketing, but not all channels are producing customers efficiently.
-
-The key business question is:
-
-> Which marketing channels are using the marketing budget effectively, and which are not — and why?
-
-Across 184 days of marketing activity, the company spent approximately **$194,140**, acquired around **6,000 customers**, achieved an average **Cost Per Customer of $30.73**, and generated approximately **$116.79 Revenue Per Customer**.
-
-While these overall numbers appear healthy, they hide major differences between marketing channels.
-
----
-
 ## Methodology
 
 Rather than assuming a cause, the investigation followed two stages:
@@ -210,16 +183,6 @@ I compared Revenue Per Customer across channels.
 ## Root Cause
 
 TikTok's underperformance is primarily driven by low-intent entertainment traffic, weak audience-age targeting (41% match), and low landing-page relevance (3.8/10), which result in a 76.5% bounce rate and a near-zero (0.03%) visitor-to-customer conversion rate.
-
----
-
-## Business Recommendations
-
-1. **Improve Audience Targeting:** Focus campaigns on audience segments that better match the company's target customer profile.
-2. **Improve Landing Page Relevance:** Create landing pages that better align with TikTok ad messaging and visitor expectations.
-3. **Test New Creative Approaches:** Experiment with different ad formats, offers, and messaging.
-4. **Reallocate Budget:** Shift a portion of marketing spend toward higher-performing channels such as Google Ads and Email while improving TikTok performance.
-5. **Monitor Funnel Metrics:** Track Cost Per Customer, Visitor-to-Customer Conversion Rate, Bounce Rate, and Revenue Per Customer to measure improvement over time.
 
 ---
 
