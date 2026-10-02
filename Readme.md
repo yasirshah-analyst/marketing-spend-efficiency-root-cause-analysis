@@ -15,11 +15,14 @@ Which marketing channels are using the marketing budget effectively, and which a
 
 ### Approach
 
-A two-stage investigation was conducted using PostgreSQL and Power BI. Stage 1 applied a Logic Tree to isolate **WHERE** inefficiency was concentrated (by channel, campaign, and date). Stage 2 executed a **5 Whys** funnel and behavioral analysis to diagnose **WHY** the drop-off occurred.
+A two-stage investigation was conducted using PostgreSQL and Power BI. 
+Stage 1 applied a Logic Tree to isolate **WHERE** inefficiency was concentrated (by channel, campaign, and date). 
+Stage 2 executed a **5 Whys** funnel and behavioral analysis to diagnose **WHY** the drop-off occurred.
 
 ### Key Finding
 
-TikTok Ads generated a Cost Per Customer of $612.88—dramatically higher than any other channel. The failure did not occur at the click stage (CTR was competitive at 4.75%), but at the post-click transition: TikTok exhibited a 0.03% visitor-to-customer conversion rate driven by low-intent traffic, a 76.5% bounce rate, low audience age alignment (41%), and poor landing page relevance (3.8/10).
+TikTok Ads generated a Cost Per Customer of $612.88—dramatically higher than any other channel. 
+The failure did not occur at the click stage (CTR was competitive at 4.75%), but at the post-click transition: TikTok exhibited a 0.03% visitor-to-customer conversion rate driven by low-intent traffic, a 76.5% bounce rate, low audience age alignment (41%), and poor landing page relevance (3.8/10).
 
 ### Three Recommendations
 
