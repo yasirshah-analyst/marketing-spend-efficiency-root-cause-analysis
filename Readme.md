@@ -24,7 +24,7 @@ Stage 2 executed a **5 Whys** funnel and behavioral analysis to diagnose **WHY**
 TikTok Ads generated a Cost Per Customer of $612.88—dramatically higher than any other channel. 
 The failure did not occur at the click stage (CTR was competitive at 4.75%), but at the post-click transition: TikTok exhibited a 0.03% visitor-to-customer conversion rate driven by low-intent traffic, a 76.5% bounce rate, low audience age alignment (41%), and poor landing page relevance (3.8/10).
 
-### Three Recommendations
+**Recommendations**
 
 1. **Reallocate Ad Spend Strategically:** Shift spend from TikTok toward proven, high-ROI channels (Email and Google Ads) while optimizing TikTok campaigns.
 2. **Fix Audience Targeting & Alignment:** Refine TikTok target demographics to improve audience-age match (currently 41%) and capture higher-intent traffic.
